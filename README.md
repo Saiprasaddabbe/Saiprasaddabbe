@@ -1,5 +1,5 @@
-Hello, I am Saiprasad </br>
-</br>
+Hello,
+I am Saiprasad, </br>
   A passionate Developer proficient in Web architecture, JAVA, JavaScript, HTML, CSS,
 Data Structures, and Algorithms. Approachable team leader, always keen to take
 the goal-oriented path to complete the tasks at hand. Strongly interested in
@@ -11,7 +11,7 @@ wow-user experience through them.
 🌱 I’m currently learning Java<br><br>👨‍💻 All of my projects are available at https://saiprasaddabbe.github.io/<br><br>📝 I am always active on https://www.linkedin.com/in/saiprasad-dabbe/<br><br>💬 Ask me about Javacript, Java, HTML, CSS, DSA<br><br>📫 How to reach me saiprasaddabbe@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1fivK_bt0a3soKDFsXHyD2SLvH5PuOpWC/view?usp=sharing<br><br>⚡ Fun fact I have Done Diploma in Electrical Engineering & Worked for Electrical Manufacturing MNC's for 3+ years
 </br>
 </br>
-🌱 I Interested in Backend Technologies..
+🌱 I am Interested in Backend Technologies..
 
 
 ## 🌐 Socials:
