@@ -15,7 +15,7 @@ wow-user experience through them.
 
 ### Tech-Stack
 
-##### HTML | CSS | JavaScript | Java | Express | MongoDB | Mongoose | React | redux
+##### HTML | CSS | JavaScript | Java 
 
 
 
