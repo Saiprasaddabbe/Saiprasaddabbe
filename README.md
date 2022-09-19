@@ -1,5 +1,7 @@
-Hello,
-I am Saiprasad, </br>
+Hello, 👋 I,m Saiprasad Dabbe
+
+### About Me
+
   A passionate Developer proficient in Web architecture, JAVA, JavaScript, HTML, CSS,
 Data Structures, and Algorithms. Approachable team leader, always keen to take
 the goal-oriented path to complete the tasks at hand. Strongly interested in
@@ -7,12 +9,37 @@ obtaining a Developer position to create scalable products and work on providing
 wow-user experience through them.
 
 
-# 💫 About Me:
-🌱 I’m currently learning Java<br><br>👨‍💻 All of my projects are available at https://saiprasaddabbe.github.io/<br><br>📝 I am always active on https://www.linkedin.com/in/saiprasad-dabbe/<br><br>💬 Ask me about Javacript, Java, HTML, CSS, DSA<br><br>📫 How to reach me saiprasaddabbe@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1fivK_bt0a3soKDFsXHyD2SLvH5PuOpWC/view?usp=sharing<br><br>⚡ Fun fact I have Done Diploma in Electrical Engineering & Worked for Electrical Manufacturing MNC's for 3+ years
-</br>
-</br>
-🌱 I am Interested in Backend Technologies..
 
+
+
+
+### Tech-Stack
+
+##### HTML | CSS | JavaScript | Java | Express | MongoDB | Mongoose | React | redux
+
+
+
+
+
+
+
+
+
+
+# 💫 About Me:
+- 🌱 I'm currently learning Full-stack Web Development from Masai School Bangalore.<br>
+- 🔭 Good in **JAVA**<br>
+- 👯 I'm looking to collaborate on Good Thoughts</br>
+- 💬 Ask me about Coding...</br>
+- 📫 How to reach me: saiprasaddabbe@gmail.com</br>
+- ⚡ Know more: [My Portfolio](https://saiprasaddabbe.github.io/)</br>
+- ⚡ Know more: [My Linkden](https://www.linkedin.com/in/saiprasad-dabbe/)</br>
+- 👯 Interested in backend technologies....<br>
+- 👯 Self Motivated<br>
+- ⚡ Quick learner<br>
+- 💬 Ask me about Javacript, Java, HTML, CSS, DSA<br>
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1fivK_bt0a3soKDFsXHyD2SLvH5PuOpWC/view?usp=sharing) <br>
+- ⚡ Fun fact I have Done Diploma in Electrical Engineering & Worked for Electrical Manufacturing MNC's for 3+ years</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saiprasad-dabbe) 
