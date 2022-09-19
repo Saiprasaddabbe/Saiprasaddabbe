@@ -1,5 +1,17 @@
+Hello, I am Saiprasad </br>
+</br>
+  A passionate Developer proficient in Web architecture, JAVA, JavaScript, HTML, CSS,
+Data Structures, and Algorithms. Approachable team leader, always keen to take
+the goal-oriented path to complete the tasks at hand. Strongly interested in
+obtaining a Developer position to create scalable products and work on providing a
+wow-user experience through them.
+
+
 # 💫 About Me:
 🌱 I’m currently learning Java<br><br>👨‍💻 All of my projects are available at https://saiprasaddabbe.github.io/<br><br>📝 I am always active on https://www.linkedin.com/in/saiprasad-dabbe/<br><br>💬 Ask me about Javacript, Java, HTML, CSS, DSA<br><br>📫 How to reach me saiprasaddabbe@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1fivK_bt0a3soKDFsXHyD2SLvH5PuOpWC/view?usp=sharing<br><br>⚡ Fun fact I have Done Diploma in Electrical Engineering & Worked for Electrical Manufacturing MNC's for 3+ years
+</br>
+</br>
+🌱 I Interested in Backend Technologies..
 
 
 ## 🌐 Socials:
@@ -12,11 +24,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saiprasaddabbe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasaddabbe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saiprasaddabbe&icon=2&color=3)](https://visitcount.itsvg.in)
