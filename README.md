@@ -1,5 +1,5 @@
 
-Hello, 👋 I am,
+Hello 👋 I am,
 # Saiprasad Dabbe
 
 ### About Me
