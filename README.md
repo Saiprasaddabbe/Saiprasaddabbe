@@ -1,4 +1,4 @@
-<img src="/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
+<img src="240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 
 Hello, 👋 I,m Saiprasad Dabbe
 
