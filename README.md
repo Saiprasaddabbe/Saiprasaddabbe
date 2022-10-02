@@ -19,7 +19,7 @@ wow-user experience through them.
 
 ### Tech-Stack
 
-##### HTML | CSS | JavaScript | Java
+##### HTML | CSS | JavaScript | JAVA | Spring Boot | Hibernate | AWS | MySQL
 
 # 💫 About Me:
 
