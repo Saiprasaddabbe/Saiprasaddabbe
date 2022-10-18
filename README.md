@@ -29,7 +29,7 @@ wow-user experience through them.
 - 💬 Ask me about Coding...</br>
 - 📫 How to reach me: saiprasaddabbe@gmail.com</br>
 - ⚡ Know more: [My Portfolio](https://saiprasaddabbe.github.io/)</br>
-- ⚡ Know more: [My Linkden](https://www.linkedin.com/in/saiprasad-dabbe/)</br>
+- ⚡ Know more: [My Linkedin](https://www.linkedin.com/in/saiprasad-dabbe/)</br>
 - 👯 Interested in backend technologies....<br>
 - 👯 Self Motivated<br>
 - ⚡ Quick learner<br>
