@@ -9,7 +9,7 @@
 
 
 
-### About Me
+### Summary : - 
 
 A passionate Developer proficient in Web architecture, JAVA, JavaScript, HTML, CSS,
 Data Structures, and Algorithms. Approachable team leader, always keen to take
