@@ -19,19 +19,14 @@ wow-user experience through them.
 
 # 💫 About Me:
 
-- 🌱 I'm currently learning Full-stack Web Development from Masai School Bangalore.<br>
 - 🔭 Good in **JAVA**<br>
 - 👯 I'm looking to collaborate on Good Thoughts</br>
-- 💬 Ask me about Coding...</br>
 - 📫 How to reach me: saiprasaddabbe@gmail.com</br>
 - ⚡ Know more: [My Portfolio](https://saiprasaddabbe.github.io/)</br>
 - ⚡ Know more: [My Linkedin](https://www.linkedin.com/in/saiprasad-dabbe/)</br>
-- 👯 Interested in backend technologies....<br>
-- 👯 Self Motivated<br>
-- ⚡ Quick learner<br>
-- 💬 Ask me about Javacript, Java, HTML, CSS, DSA<br>
+- 💬 Ask me about Java, Springboot, Hibernate, MySQL, REST API, Javascript, HTML, CSS<br>
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1fivK_bt0a3soKDFsXHyD2SLvH5PuOpWC/view?usp=sharing) <br>
-- ⚡ Fun fact I have Done Diploma in Electrical Engineering & Worked for Electrical Manufacturing MNC's for 3+ years</br>
+- ⚡ Fun fact I have Done Diploma in Electrical Engineering & Worked for Electrical Manufacturing MNC's for 3+ years then choose to became software developer</br>
 
 ## 🌐 Socials:
 
