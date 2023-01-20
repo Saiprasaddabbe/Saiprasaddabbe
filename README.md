@@ -17,10 +17,6 @@ the goal-oriented path to complete the tasks at hand. Strongly interested in
 obtaining a Developer position to create scalable products and work on providing a
 wow-user experience through them.
 
-### Tech-Stack
-
-##### HTML | CSS | JavaScript | JAVA | Spring Boot | Hibernate | AWS | MySQL
-
 # 💫 About Me:
 
 - 🌱 I'm currently learning Full-stack Web Development from Masai School Bangalore.<br>
