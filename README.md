@@ -36,7 +36,7 @@ As a passionate java backend developer, I am proficient in technologies such as 
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiprasaddabbe" alt="saiprasddabbe" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
